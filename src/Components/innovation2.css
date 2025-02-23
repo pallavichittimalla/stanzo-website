@@ -1,0 +1,58 @@
+.innovation2-main{
+    display: flex;
+    justify-content: left;
+}
+.innovation2-content-left{
+    width: 60%;
+    padding: 80px;
+    background-color: #ffffff87;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    gap: 10px;
+
+}
+.innovative2-heading{
+    font-size: 50px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.507);
+    width: 50%;
+    padding: 20px;
+    border-radius: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.innovative2-description{
+    font-size: 22px;
+    padding: 50px;
+    justify-content: left;
+
+    
+}
+.innovation2-content-right {
+    background-image: url('https://s3-alpha-sig.figma.com/img/ec04/0088/cba8ec9738e26a242de1f9a47bb79f61?Expires=1740960000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Aygu2xDm1P-OjhEEBqh~wYlt3gQiVz2fOO8lNHUOIZa7FEzlWRFEtpK~GZ6JSSV67dE1J6bLUtJIV0CkYdVbhhFG998nnMy-OkYQfGuCuANEmptb4Gdsivj1CW-~0oJB7eROzoVZsHlbhg5E5SzA2ey637g3s60MYPm~ojkpkdvTRzaDhgRc~TaYPPa-DF5uIbwS9IpDpAEuOUIsRsC3ZslWrY6jBkkEokBJmduDzWzQ1JxQG~drgT1d30fqzB8moKKAJT6pwoRCjGdu8Y6S3ckRwGrvH8z7P2DIBwS-RQmbY7iLOeuzHxzokmf4sPx8HfDqCeFRJwr23vQX45QaNQ__');
+    padding: 80px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(17, 15, 15);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.Innovation2-main2{
+    padding: 60px;
+}
+  
+.innovative2-heading2{
+    font-size: 52px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.507);
+    width: 50%;
+    padding: 20px;
+    border-radius: 30px;
+}

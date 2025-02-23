@@ -1,0 +1,35 @@
+.innovation6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    background-color: #0756A4;
+    font-family: Arial, sans-serif;
+}
+
+.innovation6-heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3.5rem;
+    color: #fdfbfb;
+    margin-bottom: 20px;
+}
+
+.innovation6-content {
+    font-size: 1.2rem;
+    color: #ffffff;
+    width: 650px;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+
+.button6 button {
+    background-color: #ffffff; 
+    color: #0756A4;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 50px;
+}
